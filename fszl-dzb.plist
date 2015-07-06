@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>message</key>
-				<string>1.修复bug\\n2.增加点击客服电话直接拨打功能</string>
+				<string>1.修复bug\n2.增加点击客服电话直接拨打功能</string>
 				<key>bundle-identifier</key>
 				<string>com.whevt.fszl-copy-2</string>
 				<key>bundle-version</key>
