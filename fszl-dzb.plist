@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>message</key>
-				<string>1.修复问题\n2.增加取还车导航\n3.增加扫描二维码获取优惠券\n4.取消车辆操作时&quot;处理中&quot;的提示\n5.历史订单中点击订单查看消费记录</string>
+				<string>1.解决不同页面价格显示不一样的问题\n2.增加我的资料页面\n3.其他优化</string>
 				<key>bundle-identifier</key>
 				<string>com.whevt.fszl-copy-2</string>
 				<key>bundle-version</key>
-				<string>1.0.6</string>
+				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
