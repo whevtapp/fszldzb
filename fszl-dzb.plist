@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>message</key>
-				<string>1.会员唯一登录\n2.消费记录页面修改\n3.证件照片需上传正反面且能显示已上传的图片\n4.其他优化</string>
+				<string>APP2.5版本更行</string>
 				<key>bundle-identifier</key>
 				<string>com.whevt.fszl-copy-2</string>
 				<key>bundle-version</key>
