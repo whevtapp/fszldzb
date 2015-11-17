@@ -17,8 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>message</key>
-				<string>1.适配iOS9.0系统。
-				2.修复其他Bug。</string>
+				<string>1.适配iOS9.0系统。2.修复其他Bug。</string>
 				<key>bundle-identifier</key>
 				<string>com.whevt.fszl-copy-2</string>
 				<key>bundle-version</key>
